@@ -1,0 +1,2 @@
+# nasty
+automatic pentesting framework
